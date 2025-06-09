@@ -1,0 +1,12 @@
+bagpy
+torch
+torchvision
+timm
+albumentations
+onnx
+onnxruntime-gpu
+huggingface-hub
+pandas
+scikit-learn
+tensorboard
+mlflow
